@@ -1,2 +1,1 @@
-# springKotlinBasic
-Kotlin &amp; JUnit 5
+# Spring Boot with Kotlin & JUnit 5
